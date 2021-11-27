@@ -1,16 +1,11 @@
-### Hi there 👋
+<!--START_SECTION:waka-->
+```text
+Week: 07 August, 2020 - 14 August, 2020
 
-<!--
-**vikuviku66664i/vikuviku66664i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript   9 hrs 53 mins   ██████████████████░░░░░░░   74.31 % 
+JSON         59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Other        58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Prolog       33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Groovy       28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+```
+<!--END_SECTION:waka-->
